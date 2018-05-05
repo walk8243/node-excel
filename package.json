@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/walk8243/node-excel/issues"
   },
-  "homepage": "https://github.com/walk8243/node-excel#readme"
+  "homepage": "https://github.com/walk8243/node-excel#readme",
+  "dependencies": {
+    "xlsx": "^0.12.11"
+  }
 }
